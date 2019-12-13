@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "gulp-sourcemaps": "^2.6.5",
-    "npm": "^6.11.3"
+    "npm": "^6.13.4"
   },
   "devDependencies": {
     "browser-sync": "^2.26.7",
